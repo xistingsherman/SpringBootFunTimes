@@ -10,6 +10,7 @@ version = "0.0.1-SNAPSHOT"
 java {
 	sourceCompatibility = JavaVersion.VERSION_21
 }
+//gradle wrapper --gradle-version 8.4
 
 configurations {
 	compileOnly {
